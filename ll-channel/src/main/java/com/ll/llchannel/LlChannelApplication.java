@@ -1,0 +1,13 @@
+package com.ll.llchannel;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LlChannelApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(LlChannelApplication.class, args);
+    }
+
+}
